@@ -4,7 +4,7 @@ from main import SmartDiet
 def test_if_empty():
     diet = SmartDiet()
 
-    assert 0 == diet.calculate()
+    assert 0 = diet.calculate()
 
 
 def test_if_one():
